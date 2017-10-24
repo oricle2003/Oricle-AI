@@ -1,0 +1,2 @@
+# Oricle-AI
+artificial Intelligence
